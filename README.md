@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nairaxo
 - 👀 I’m interested in Machine Learning, AI, NLP, Research, Maths and a lot of things.
-- 📫 How to reach me : naira.abdoumohamed@gmail.com, anaira@aiox-labs.com
+- 📫 How to reach me : naira.abdoumohamed@gmail.com, naira@toum.ai
 
 <!---
 nairaxo/nairaxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
